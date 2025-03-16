@@ -1,3 +1,6 @@
+// Here, I discussed how to implement a linked list and how insertion and deletion occur at different position
+
+
 #include <stdio.h>
 #include <stdlib.h>
 
